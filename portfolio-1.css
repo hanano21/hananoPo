@@ -1,0 +1,84 @@
+.header{
+	width: auto;
+	height: auto;
+	background-color: rgba(0,0,0,50);
+}
+.imgmainp{
+	width: 100vw;
+}
+.home{
+	list-style: none;
+	float:left;
+	padding:5px 25px;
+	font-family:"impact";
+	font-size:15px;
+	color:#FF6928;
+}
+.about{
+	list-style: none;
+	float:left;
+	padding:5px 25px;
+	font-family:"impact";
+	font-size:15px;
+	color:#FF6928;
+}
+.works{
+	list-style: none;
+	float:left;
+	padding:5px 25px;
+	font-family:"impact";
+	font-size:15px;
+	color:#FF6928;
+}
+.pict{
+	list-style: none;
+	float:left;
+	padding:5px 25px;
+	font-family:"impact";
+	font-size:15px;
+	color:#FF6928;
+}
+.contact{
+	list-style: none;
+	float:left;
+	padding:5px 25px;
+	font-family:"impact";
+	font-size:15px;
+	color:#FF6928;
+}
+.allpro{
+	width: auto;
+	height: auto;
+	margin: 0px;
+	background-color:#FF6928; 
+}
+.profile{
+	padding:10px;
+	font-family: "impact";
+	color:#FFFFF0;
+}
+.attension{
+	font-family: "impact";
+	color:#FFFFF0;
+}
+.profiletext{
+	font-family: cursive;
+	font-size:11px;
+	color: #FFFFF0;
+}
+.attensiontext{
+	font-family: cursive;
+	font-size:11px;
+	color: #FFFFF0;
+}
+.contact2{
+	padding: 10px;
+	font-family:"impact";
+	color:#FF6928;
+	font-size:15px;
+}
+.contacttext{
+	font-family: cursive;
+	font-size:11px;
+	color: #FF6928;
+}
